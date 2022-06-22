@@ -1,0 +1,15 @@
+{
+  "name": "@test-single-repo/frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@test-single-repo/backend":"1.0.0"
+
+  }
+}
